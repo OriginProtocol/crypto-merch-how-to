@@ -1,8 +1,8 @@
 # Origin Marketplace Listing Guide
 
-This guide will tell you how to list goods and services on the [Origin Marketplace DApp](https://dapp.originprotocol.com). While there are several steps in the process, we hope this step-by-step guide will make it easy for you to create your first listing in 10 minutes or less. 
+This guide will tell you how to list goods and services on Crypto Merch. https://cryptomerch.io. While there are several steps in the process, we hope this step-by-step guide will make it easy for you to create your first listing in 10 minutes or less. 
 
-Please contact the Origin team if you have any questions and one of us will walk you through this process. You can email at [info@originprotocol.com](mailto:info@originprotocol.com).
+Please contact the Origin team if you have any questions and one of us will walk you through this process. You can email me at [austin@originprotocol.com](mailto:austin@originprotocol.com).
 
 ## Get an Ethereum Wallet
 
@@ -14,7 +14,7 @@ On desktop, we recommend using a browser extension called [Metamask](https://met
 
 Check out this [short video guide](https://www.youtube.com/watch?v=ZIGUC9JAAw8) that explains how to install and set up MetaMask.
 
-If you don’t have any ETH (short for ether, or Ethereum coins) and don’t want to buy any for yourself, we will send you a tiny amount (about $0.05) to create your listing. Contact Origin with your MetaMask wallet address (also called a public key), provide details about your listing, and we will send you some ETH for free.
+If you don’t have any ETH (short for ether, or Ethereum coins) and don’t want to buy any for yourself, we will send you a tiny amount to create your listings. Contact Origin with your MetaMask wallet address (also called a public key), provide details about your listing, and we will send you some ETH for free.
 
 **INSERT SCREENSHOT**
 
@@ -38,10 +38,10 @@ When you want to sell your ETH for dollars or another currency, we recommend usi
 
 ## Using the Origin Marketplace DApp
 
-After you have MetaMask up and running, navigate to the [Origin Marketplace DApp](https://dapp.originprotocol.com). The first thing you should do is set up a profile so buyers know who you are. This is important to build trust, as buyers will want to know who they are transacting with.
+After you have MetaMask up and running, navigate to Crypto Merch (https://cryptomerch.io). The first thing you should do is set up a profile so buyers know who you are. This is important to build trust, as buyers will want to know who they are transacting with.
 
 ### Setting up a Profile
-Click the icon in the top right corner and click ‘Edit Profile’ or go directly to the [profile page](https://dapp.originprotocol.com/#/profile).
+Click the icon in the top right corner and click ‘Edit Profile’ or go directly to the [profile page](https://cryptomerch.io/#/profile).
 
 **INSERT SCREENSHOT**
 
@@ -55,7 +55,7 @@ Click confirm; the transaction should cost about $0.01. The changes may take a w
 
 ### Enabling Messaging
 
-Next, to communicate with other users on the platform, you will need to enable messaging. This is important as it means you can answer questions might have about your good or service.
+Next, to communicate with other users on the platform, you will need to enable messaging. This is important as it means you can answer questions someone might have about your good or service.
 
 To enable messaging between yourself and potential buyers, you will need to create two signatures (by signing twice) with MetaMask. Click the message bubble and then click ‘Enable Messaging’. MetaMask should pop up and ask you to sign a message. Click sign. This will not cost anything.
 
@@ -99,7 +99,7 @@ We can see our listings by clicking ‘Selling’ and ‘My Listings’ in the m
 
 ### Completing a Sale
 
-When a buyer makes an offer on your art, you should receive a notification from your browser and see it in the Peer Art menu bar.
+When a buyer makes an offer on your art, you should receive a notification from your browser and see it in the Crypto Merch bar.
 
 **INSERT SCREENSHOT**
 
