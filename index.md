@@ -1,4 +1,4 @@
-# Origin Marketplace Listing Guide
+# Crypto Merch Listing Guide
 
 This guide will tell you how to list goods and services on Crypto Merch. https://cryptomerch.io. While there are several steps in the process, we hope this step-by-step guide will make it easy for you to create your first listing in 10 minutes or less. 
 
@@ -6,7 +6,7 @@ Please contact the Origin team if you have any questions and one of us will walk
 
 ## Get an Ethereum Wallet
 
-To use the Origin Marketplace DApp or Ethereum DApps in general, you will need to have an Ethereum wallet and wallet-enabled browser. 
+To transact on Crypto Merch or any Ethereum DApps in general, you will need to have an Ethereum wallet and wallet-enabled browser. 
 
 ### Desktop
 
