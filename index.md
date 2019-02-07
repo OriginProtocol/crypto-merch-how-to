@@ -36,7 +36,7 @@ Either way, if you are stuck or need to do something, keep an eye out on the lit
 
 When you want to sell your ETH for dollars or another currency, we recommend using [Coinbase](https://coinbase.com). You can send ETH to your account on Coinbase and exchange it for dollars that can then be withdrawn to your bank account.
 
-## Using the Origin Marketplace DApp
+## Using the Crypto Merch DApp
 
 After you have MetaMask up and running, navigate to Crypto Merch (https://cryptomerch.io). The first thing you should do is set up a profile so buyers know who you are. This is important to build trust, as buyers will want to know who they are transacting with.
 
