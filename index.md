@@ -16,7 +16,7 @@ Check out this [short video guide](https://www.youtube.com/watch?v=ZIGUC9JAAw8) 
 
 If you don’t have any ETH (short for ether, or Ethereum coins) and don’t want to buy any for yourself, we will send you a tiny amount to create your listings. Contact Origin with your MetaMask wallet address (also called a public key), provide details about your listing, and we will send you some ETH for free.
 
-**INSERT SCREENSHOT**
+![Image](/img-1.png)
 
 ### Mobile
 
@@ -32,8 +32,6 @@ In order to use DApps, you will often need need some ETH to complete actions on 
 
 Either way, if you are stuck or need to do something, keep an eye out on the little fox logo in your browser bar and any notifications. Click the button to pop up MetaMask and complete a transaction or sign something.
 
-**INSERT SCREENSHOT**
-
 When you want to sell your ETH for dollars or another currency, we recommend using [Coinbase](https://coinbase.com). You can send ETH to your account on Coinbase and exchange it for dollars that can then be withdrawn to your bank account.
 
 ## Using the Crypto Merch DApp
@@ -43,15 +41,15 @@ After you have MetaMask up and running, navigate to Crypto Merch (https://crypto
 ### Setting up a Profile
 Click the icon in the top right corner and click ‘Edit Profile’ or go directly to the [profile page](https://cryptomerch.io/#/profile).
 
-**INSERT SCREENSHOT**
+![Image](/img-2.png)
 
 On the profile page, you can  upload a profile picture, add a description, and verify your phone, email, etc. Importantly, after you verify your user data, you will still need to publish this to the blockchain so that other users can see your profile data. After you are done, click ‘Publish Now’. You will see another prompt, read it and click ‘Let’s do it!’. You will then be prompted to confirm a transaction on MetaMask.
 
-**INSERT SCREENSHOT**
+![Image](/img-3.png)
 
 Click confirm; the transaction should cost about $0.01. The changes may take a while to publish, and you will be able to see the status in the menu bar.
 
-**INSERT SCREENSHOT**
+![Image](/img-4.png)
 
 ### Enabling Messaging
 
@@ -59,15 +57,13 @@ Next, to communicate with other users on the platform, you will need to enable m
 
 To enable messaging between yourself and potential buyers, you will need to create two signatures (by signing twice) with MetaMask. Click the message bubble and then click ‘Enable Messaging’. MetaMask should pop up and ask you to sign a message. Click sign. This will not cost anything.
 
-**INSERT SCREENSHOT**
+![Image](/img-5.png)
 
 After clicking sign, it will take you to the messaging center. If not, click the message bubble and ‘View All’. There will be a button that says ‘Enable Messaging’ again, click it.
 
-**INSERT SCREENSHOT**
+![Image](/img-6.png)
 
 You can see the MetaMask fox icon has a ‘1’ notification on it in the browser bar, open MetaMask and sign again.
-
-**INSERT SCREENSHOT**
 
 ### Creating a Listing
 
