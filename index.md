@@ -109,15 +109,15 @@ To accept the offer, we will have to do another action in MetaMask, which should
 
 The ETH the buyer paid for this item is locked and held in escrow until you fulfill the order (e.g. ship the product or fulfill a service). You will see a ‘Fulfillment Checklist’ of the steps required to unlock this ETH and send it to your wallet.
 
-**INSERT SCREENSHOT**
+![Image](/img-15.png)
 
 Once the buyer is satisfied with their purchase, they will finalize the order. You will receive a notification that the order is finalized, and the ETH will be delivered to your wallet.
 
-**INSERT SCREENSHOT**
+![Image](/img-16.png)
 
 Now that the ETH is released to your wallet, you can leave a review of the buyer.
 
-**INSERT SCREENSHOT**
+![Image](/img-17.png)
 
 The sales process is now complete! You can either keep your newly earned ETH in your MetaMask wallet, or transfer it to your Coinbase account and trade it for cold hard cash direct to your bank account.
 
