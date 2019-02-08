@@ -69,7 +69,7 @@ You can see the MetaMask fox icon has a ‘1’ notification on it in the browse
 
 Next, let’s create a listing. Click ‘+ Add a Listing’ in the menu bar. As an example, let's select ‘Clothing & Accessories’ as the category.
 
-**INSERT SCREENSHOT**
+![Image](/img-7.png)
 
 We can fill out information about the item for sale and choose a price in ETH with the equivalent in US dollars displayed (at the time of listing, ETH price fluctuates!).
 
@@ -79,7 +79,7 @@ We can add multiple photos and drag and drop to rearrange the order of photos di
 
 **INSERT SCREENSHOT**
 
-Clicking ‘Continue’, we move onto the ‘Boost Your Listing’ page. We can ignore this for now if we don’t have any OGN tokens (Origin coins). Click ‘Review’ to check your listing before publishing. Click ‘Done’ when you are satisfied or ‘Back’ to change details. You can always edit your listings later, as well. After clicking ‘Done’, we will have to confirm our transaction on MetaMask.
+Clicking ‘Continue’, we move onto the ‘Boost Your Listing’ page. We can ignore this for now since we don’t have any OGN tokens (Origin coins). Click ‘Review’ to check your listing before publishing. Click ‘Done’ when you are satisfied or ‘Back’ to change details. You can always edit your listings later, as well. After clicking ‘Done’, we will have to confirm our transaction on MetaMask.
 
 **INSERT SCREENSHOT**
 
