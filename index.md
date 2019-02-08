@@ -6,7 +6,7 @@ Please contact the Origin team if you have any questions and one of us will walk
 
 ## Get an Ethereum Wallet
 
-To transact on Crypto Merch or any Ethereum DApps in general, you will need to have an Ethereum wallet and wallet-enabled browser. 
+To transact on [Crypto Merch](https://cryptomerch.io.) or any Ethereum DApps in general, you will need to have an Ethereum wallet and wallet-enabled browser. 
 
 ### Desktop
 
