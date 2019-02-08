@@ -97,7 +97,7 @@ We can see our listings by clicking ‘Selling’ and ‘My Listings’ in the m
 
 When a buyer makes an offer on your art, you should receive a notification from your browser and see it in the Crypto Merch bar.
 
-**INSERT SCREENSHOT**
+![Image](/img-12.png)
 
 If we are comfortable accepting the offer, we can hit ‘Accept’. We can also message the buyer by clicking ‘Contact Buyer’ to discuss any questions you may have for the buyer.
 
