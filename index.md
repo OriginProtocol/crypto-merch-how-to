@@ -81,8 +81,6 @@ We can add multiple photos and drag and drop to rearrange the order of photos di
 
 Clicking ‘Continue’, we move onto the ‘Boost Your Listing’ page. We can ignore this for now since we don’t have any OGN tokens (Origin coins). 
 
-
-
 Click ‘Review’ to check your listing before publishing. Click ‘Done’ when you are satisfied or ‘Back’ to change details. You can always edit your listings later, as well. After clicking ‘Done’, we will have to confirm our transaction on MetaMask.
 
 **INSERT SCREENSHOT**
