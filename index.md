@@ -83,17 +83,15 @@ Clicking ‘Continue’, we move onto the ‘Boost Your Listing’ page. We can 
 
 Click ‘Review’ to check your listing before publishing. Click ‘Done’ when you are satisfied or ‘Back’ to change details. You can always edit your listings later, as well. After clicking ‘Done’, we will have to confirm our transaction on MetaMask.
 
-**INSERT SCREENSHOT**
+![Image](/img-10.png)
 
 Here you can see the gas fee we pay to post the listing is about a penny. After posting the listing, we will see a prompt. Please click ‘Enable Notifications’ so you get updates when a buyer sends you a message or makes an offer.
 
-**INSERT SCREENSHOT**
-
 We will see our browser ask us permission to allow notifications. Click ‘Allow’.
 
-**INSERT SCREENSHOT**
-
 We can see our listings by clicking ‘Selling’ and ‘My Listings’ in the menu.
+
+![Image](/img-11.png)
 
 ### Completing a Sale
 
