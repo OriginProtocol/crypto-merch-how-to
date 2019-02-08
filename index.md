@@ -101,11 +101,11 @@ When a buyer makes an offer on your art, you should receive a notification from 
 
 If we are comfortable accepting the offer, we can hit ‘Accept’. We can also message the buyer by clicking ‘Contact Buyer’ to discuss any questions you may have for the buyer.
 
-**INSERT SCREENSHOT**
+![Image](/img-13.png)
 
 To accept the offer, we will have to do another action in MetaMask, which should cost about a penny or less.
 
-**INSERT SCREENSHOT**
+![Image](/img-14.png)
 
 The ETH the buyer paid for this item is locked and held in escrow until you fulfill the order (e.g. ship the product or fulfill a service). You will see a ‘Fulfillment Checklist’ of the steps required to unlock this ETH and send it to your wallet.
 
