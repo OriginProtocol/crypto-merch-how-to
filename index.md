@@ -73,11 +73,11 @@ Next, let’s create a listing. Click ‘+ Add a Listing’ in the menu bar. As 
 
 We can fill out information about the item for sale and choose a price in ETH with the equivalent in US dollars displayed (at the time of listing, ETH price fluctuates!).
 
-**INSERT SCREENSHOT**
+![Image](/img-8.png)
 
 We can add multiple photos and drag and drop to rearrange the order of photos displayed.
 
-**INSERT SCREENSHOT**
+![Image](/img-9.png)
 
 Clicking ‘Continue’, we move onto the ‘Boost Your Listing’ page. We can ignore this for now since we don’t have any OGN tokens (Origin coins). Click ‘Review’ to check your listing before publishing. Click ‘Done’ when you are satisfied or ‘Back’ to change details. You can always edit your listings later, as well. After clicking ‘Done’, we will have to confirm our transaction on MetaMask.
 
