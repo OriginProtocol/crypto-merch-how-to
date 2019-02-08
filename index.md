@@ -1,6 +1,6 @@
 # Crypto Merch Listing Guide
 
-This guide will tell you how to list goods and services on Crypto Merch. https://cryptomerch.io. While there are several steps in the process, we hope this step-by-step guide will make it easy for you to create your first listing in 10 minutes or less. 
+This guide will tell you how to list goods and services on [Crypto Merch](https://cryptomerch.io.) While there are several steps in the process, we hope this step-by-step guide will make it easy for you to create your first listing in 10 minutes or less. 
 
 Please contact the Origin team if you have any questions and one of us will walk you through this process. You can email me at [austin@originprotocol.com](mailto:austin@originprotocol.com).
 
