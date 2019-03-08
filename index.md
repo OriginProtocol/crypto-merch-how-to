@@ -32,7 +32,7 @@ In order to use DApps, you will often need need some ETH to complete actions on 
 
 Either way, if you are stuck or need to do something, keep an eye out on the little fox logo in your browser bar and any notifications. Click the button to pop up MetaMask and complete a transaction or sign something.
 
-When you want to sell your ETH for dollars or another currency, we recommend using [Coinbase](https://coinbase.com). You can send ETH to your account on Coinbase and exchange it for dollars that can then be withdrawn to your bank account.
+When you want to sell your ETH for dollars or another currency, we recommend using [Coinbase](https://coinbase.com) or [Blockchain.com](https://www.blockchain.com). You can send ETH to your account on Coinbase/Blockchain.com and exchange it for dollars that can then be withdrawn to your bank account.
 
 ## Using the Crypto Merch DApp
 
